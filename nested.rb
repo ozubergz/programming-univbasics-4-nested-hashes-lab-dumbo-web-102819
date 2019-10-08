@@ -114,7 +114,7 @@ def changing_alan
      
      programmer_hash[:known_for] = "GUI"
      
-     programmer_hash
+     programmer_hash[:know_for]
 end
 
 def adding_to_dennis
